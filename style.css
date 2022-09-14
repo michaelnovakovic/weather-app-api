@@ -45,6 +45,11 @@ h1.temp {
     margin: 0;
 }
 
+/* Icon */
+.icon {
+    
+}
+
 /* Button */
 button {
     margin: 0.5em;
@@ -61,4 +66,9 @@ button {
 
 button:hover {
     background: #7c7c7c6b;
+}
+
+/* Description */
+.description {
+    text-transform: capitalize;
 }
