@@ -5,6 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     background: green;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Cards Styling */
@@ -16,3 +17,4 @@ body {
     max-width: 420px;
     margin: 1em;
 }
+
