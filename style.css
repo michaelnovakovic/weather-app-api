@@ -43,11 +43,13 @@ input.search-bar {
 /* H1 */
 h1.temp {
     margin: 0;
+    margin-bottom: 0.4em;
 }
 
-/* Icon */
-.icon {
-    
+/* Flexbox */
+.flex {
+    display: flex;
+    align-items: center;
 }
 
 /* Button */
@@ -71,4 +73,5 @@ button:hover {
 /* Description */
 .description {
     text-transform: capitalize;
+    margin-left: 8px;
 }
